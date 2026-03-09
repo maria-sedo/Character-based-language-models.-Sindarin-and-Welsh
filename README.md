@@ -1,3 +1,5 @@
+# Character-based language models: Sindarin and Welsh
+
 Exercise 2 of the Natural Language Processing course. Master in Theoretical and Applied Linguistics (Universitat Pompeu Fabra).
 
 J. R. R. Tolkien, author of the beloved fiction The Lord of The Rings, created a world rich in linguistic diversity. He used existing languages as a base for creating new ones, and the names of his characters follow the phonotactics of the languages. For example, Sindarin was based on Welsh. Studies suggest that, besides using real languages, Tolkien preferred certain letter combinations, which he used in names regardless of the patterns displayed by the languages (Baker-Smemoe et al., 2014; Brown et al., 2018). These combinations form the phonoprint, consistent phoneme patterns that characterize an author. Baker-Smemoe et al. (2014) identified Tolkien’s phonoprint as the sounds /b/, /r/, /n/, /l/, /a/, /æ/, /ɛ/, the onsets /br/, /gr/, /gl/, /dr/, and the codas /n/, /m/, /l/, /r/, /nt/ and /rn/.
