@@ -16,7 +16,7 @@ In the generated names for the second language, it could be seen that Sindarin a
 
 Overall, Sindarin patterns were more recognisable than Welsh ones. Sindarin outputs were more regular, while Welsh outputs were more diverse and complex. This may reflect the difference between artificial languages like Sindarin and natural languages like Welsh (which show greater variation and irregularity). 
 
-In this repository, the models created are provided along with the the TXT files with Sindarin and Welsh names used as input and the .pt files with the trained models. Sindarin names were collected from the dictionary Parf Edhellen (n.d.), and Welsh names were collected from the website Behind the Name (Campbell, 2025). The Sindarin file contains 328 names, and the Welsh file contains 314 names.
+In this repository, the models created are provided along with the TXT files with Sindarin and Welsh names used as input and the .pt files with the trained models. Sindarin names were collected from the dictionary Parf Edhellen (n.d.), and Welsh names were collected from the website Behind the Name (Campbell, 2025). The Sindarin file contains 328 names, and the Welsh file contains 314 names.
 
 ***References***
 
